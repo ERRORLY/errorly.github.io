@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Errorly'
+theme = "hugo-bearcub"
+copyright = "Errorly"
+
+
+[params]
+    madewith="Made With Code"
+    favicon = "errorly.jpg"
+    [markup]
+      [markup.highlight]
+        lineNos = true
+        lineNumbersInTable = false
+        noClasses = false
+
+      [markup.goldmark]
+        [markup.goldmark.renderer]
+          unsafe = true

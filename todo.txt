@@ -1,0 +1,11 @@
+[] make a website
+    [done] make community page and layout it
+    [] add laukey page
+    [done] add sumcode page
+    [done] make banner for each section
+    [done] add logo of website
+    [done] add <a> in products so people can see where they are going
+    [] add emojis in products
+
+future stuff:
+    [] add logo to find more characterstic about the project like, opensource, web or app
