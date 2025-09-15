@@ -29,7 +29,7 @@ Ever Needed a Password manager to manage all your password in one place? Obvious
 
 ## 📥 Downloads
 
-> Downloading In Windows may recieve a blue screen saying its a virus or something, just ignore that (click on more info and run anyway), because i dont have 500 dollars for windows to sign the software
+> Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the [high cost of a certificate](https://www.digicert.com/signing/compare-code-signing-certificates). Click "More info" > "Run anyway" to proceed safely.
 
 
 <div style="display:flex; justify-content:center; gap:40px; margin-top:20px;">
@@ -67,13 +67,16 @@ Ever Needed a Password manager to manage all your password in one place? Obvious
 
 ## 📚 Docs
 
-1. ❓ If your issue isn’t here, join our **Discord** for quick support.
-2. 📂 Import/Export works only with `.csv` files. The file must follow this format for importing:
+**1**. ❓ If your issue isn’t here, join our [**Discord**](https://discord.gg/JwfsagYANM) for quick support.
+
+**2**. 📂 Import/Export works only with `.csv` files. The file must follow this format for importing:
 ```csv
 name,url,username,password,note
 "My Site","https://example.com","user123","mypassword"
 ```
 This is the standard file which you get after exporting your file from chrome browser
+
+**3**. Dark And Light Mode Will Be Automatically Set As Per your System Theme, changing manually will come in future version.
 
 ## 📝 Future Versions TODO (for v0.2 to v0.3)
 ```

@@ -27,7 +27,7 @@ author: "CYCNO"
     </div>
   </div>
   <div style="border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
-    <a href="/laukey" style="display:block;color:inherit;text-decoration:none;">
+    <a href="/Laukey" style="display:block;color:inherit;text-decoration:none;">
         <img src="/laukey_applications/laukeypreview.png" alt="SumCode" style="width:100%;height:140px;object-fit:cover;"/>
     </a>
     <div style="padding:1rem;">
@@ -36,7 +36,7 @@ author: "CYCNO"
       <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;">
         <span style="color:#374151;"><code>Application</code></span>
         <span>
-          <a href="/laukey" style="">Site</a>
+          <a href="/Laukey" style="">Site</a>
         </span>
       </div>
     </div>

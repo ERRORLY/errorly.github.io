@@ -3,7 +3,9 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
+
 ![img](/errorly-banner.jpg)
+
 <style>
   .badges img {
     height: 25px;
@@ -28,22 +30,21 @@ weight: 1
   </a>
 </div>
 
-
 ## About
-The entire purpose of errorly is build stuff that are usefull for average user, thou our most of the project is open source and free to use, we also want to make products that makes us money, the reason is not to make profit but more of to maintain and expand errorly so we can provide more quality products to you guys for free.
 
-## Projects:
-Since we have just started the errorly project seriously, there is not much projects to share for now, the projects that are active:
- - [SumCode](/sumcode) - A website to generate Code For Free, and the website is also opensource for anyone to look in the code
- - [Laukey](/laukey) - A Feature Rich Password Manager with Beutiful UI with lots of features
+Errorly is a small but growing team focused on building modern, useful tools that solve real problems. We’re passionate about creating high-quality digital products with clean design, strong functionality, and a focus on user experience. Our goal is to deliver simple yet powerful solutions that are accessible to everyone.
 
-In future there will be more Projects
+## Projects
 
-## [Community](/community):
-We are currently trying to build a Community so we can be motivated and find members to maintain the errorly, if you want to connect to us or have some queries, feel free to visit [here](/community)
- <!--<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
-     <a href="https://discord.gg/JwfsagYANM" target="_blank">Discord</a>
-     <a href="mailto:errorlydev@gmail.com" target="_blank">Gmail</a>
-     <a href="https://x.com/ErrorlyDev" target="_blank">Twitter</a>
-     <a href="https://github.com/ERRORLY" target="_blank">GitHub</a>
- </div>-->
+We're just getting started, but here are a few projects already available:
+
+- [SumCode](/sumcode), a smart tool that helps you generate code quickly and efficiently
+- [Laukey](/Laukey), a powerful and beautifully designed password manager packed with features
+
+More projects are in development and will be released soon.
+
+## Community
+
+We’re actively building a community around Errorly. Whether you're a developer, creator, or just someone who likes what we’re doing, we’d love to connect.
+
+If you have questions, ideas, or just want to say hello, visit our [Community page](/community) to get involved.
