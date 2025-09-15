@@ -102,9 +102,9 @@ These are some works that are been done, and other projects are currently in dev
     </item>
     <item>
       <title>Laukey</title>
-      <link>http://localhost:1313/laukey/</link>
+      <link>http://localhost:1313/Laukey/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/laukey/</guid>
+      <guid>http://localhost:1313/Laukey/</guid>
       <description>&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/laukey_applications/laukey_logo.png&#34; alt=&#34;Laukey logo&#34; width=&#34;256&#34; height=&#34;256&#34; /&gt;&#xA;&lt;/div&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Laukey is in Beta, So You May encounter some bugs.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;ScreenShots&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/laukey_applications/ss/1.png&#34; alt=&#34;Screenshot 1&#34; style=&#34;max-width:100%; margin-bottom:20px; border-radius:12px;&#34; /&gt;&#xA;&lt;h2 id=&#34;-features&#34;&gt;✨ Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No Authentication or Login Required&lt;/li&gt;&#xA;&lt;li&gt;Clean And Modern UI&lt;/li&gt;&#xA;&lt;li&gt;Dark And Light Mode Supports&lt;/li&gt;&#xA;&lt;li&gt;Passwords Encrypted And Saved Locally&lt;/li&gt;&#xA;&lt;li&gt;Import And Export in CSV&lt;/li&gt;&#xA;&lt;li&gt;Add/Edit Options&lt;/li&gt;&#xA;&lt;li&gt;Different Categories&lt;/li&gt;&#xA;&lt;li&gt;Responsive For Any Layout&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-downloads&#34;&gt;📥 Downloads&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Downloading In Windows may recieve a blue screen saying its a virus or something, just ignore that (click on more info and run anyway), because i dont have 500 dollars for windows to sign the software&lt;/p&gt;</description>
       <content:encoded><![CDATA[<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
     <img src="/laukey_applications/laukey_logo.png" alt="Laukey logo" width="256" height="256" />

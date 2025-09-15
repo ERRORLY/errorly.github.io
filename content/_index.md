@@ -39,7 +39,7 @@ Since we have just started the errorly project seriously, there is not much proj
 
 In future there will be more Projects
 
-## Community:
+## [Community](/community):
 We are currently trying to build a Community so we can be motivated and find members to maintain the errorly, if you want to connect to us or have some queries, feel free to visit [here](/community)
  <!--<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
      <a href="https://discord.gg/JwfsagYANM" target="_blank">Discord</a>
