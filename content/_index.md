@@ -34,7 +34,7 @@ weight: 1
 
 Errorly is a small but growing team focused on building modern, useful tools that solve real problems. We’re passionate about creating high-quality digital products with clean design, strong functionality, and a focus on user experience. Our goal is to deliver simple yet powerful solutions that are accessible to everyone.
 
-## Projects
+## [Projects](/projects)
 
 We're just getting started, but here are a few projects already available:
 
@@ -43,7 +43,7 @@ We're just getting started, but here are a few projects already available:
 
 More projects are in development and will be released soon.
 
-## Community
+## [Community](/community)
 
 We’re actively building a community around Errorly. Whether you're a developer, creator, or just someone who likes what we’re doing, we’d love to connect.
 

@@ -41,7 +41,7 @@
   <meta itemprop="description" content="A Modern Password Manager">
   <meta itemprop="datePublished" content="2025-09-14T00:00:00+00:00">
   <meta itemprop="dateModified" content="2025-09-14T00:00:00+00:00">
-  <meta itemprop="wordCount" content="347">
+  <meta itemprop="wordCount" content="370">
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -90,6 +90,9 @@
 <p>Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI</p>
 <h2 id="screenshots">ScreenShots</h2>
 <img src="/laukey_applications/ss/1.png" alt="Screenshot 1" style="max-width:100%; margin-bottom:20px; border-radius:12px;" />
+<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
+    <a href="https://github.com/ERRORLY/Laukey" target="_blank">source-code</a>
+</div>
 <h2 id="-features">✨ Features</h2>
 <ul>
 <li>No Authentication or Login Required</li>
@@ -100,26 +103,26 @@
 <li>Add/Edit Options</li>
 <li>Different Categories</li>
 <li>Responsive For Any Layout</li>
+<li><a href="https://github.com/ERRORLY/Laukey">Open Source</a></li>
 </ul>
 <h2 id="-downloads">📥 Downloads</h2>
 <blockquote>
 <p>Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the <a href="https://www.digicert.com/signing/compare-code-signing-certificates">high cost of a certificate</a>. Click &ldquo;More info&rdquo; &gt; &ldquo;Run anyway&rdquo; to proceed safely.</p></blockquote>
 <div style="display:flex; justify-content:center; gap:40px; margin-top:20px;">
-    <!-- Linux Dropdown -->
-  <details style="min-width:200px; text-align:center;">
-    <summary>🐧 Linux</summary>
-    <br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb">.deb (Ubuntu)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm">.rpm (OpenSuse And Others)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage">.AppImage</a>
-  </details>
-  <!-- Windows Dropdown -->
-  <details style="min-width:200px; text-align:center;">
+  <details open style="min-width:200px; text-align:center;">
     <summary>🪟 Windows</summary>
     <br/>
     <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64-setup.exe">Installer (nsis) (Recommended)</a><br/>
     <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64_en-US.msi">Installer (.msi)</a><br/>
     <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/Laukey.exe">.exe</a>
+  </details>
+    <!-- Linux Dropdown -->
+  <details open style="min-width:200px; text-align:center;">
+    <summary>🐧 Linux</summary>
+    <br/>
+    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb">.deb (Ubuntu)</a><br/>
+    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm">.rpm (OpenSuse And Others)</a><br/>
+    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage">.AppImage</a>
   </details>
 </div>
 <br/>
@@ -136,9 +139,11 @@
   - <code>laukey_0.1.0_amd64.AppImage</code> – Portable, runs on most distros without install<br/>
 </details>
 <br/>
+<h2 id="build-or-run-through-code">Build Or Run Through Code</h2>
+<p>To Build App From Source Code, You Should Visit The <a href="https://github.com/ERRORLY/Laukey?tab=readme-ov-file#build-or-run-through-code">Repo</a> Of Laukey</p>
 <h2 id="-docs">📚 Docs</h2>
-<p><strong>1</strong>. ❓ If your issue isn’t here, join our <a href="https://discord.gg/JwfsagYANM"><strong>Discord</strong></a> for quick support.</p>
-<p><strong>2</strong>. 📂 Import/Export works only with <code>.csv</code> files. The file must follow this format for importing:</p>
+<p><strong>1</strong>. If your issue isn’t here, join our <a href="https://discord.gg/JwfsagYANM"><strong>Discord</strong></a> for quick support.</p>
+<p><strong>2</strong>. Import/Export works only with <code>.csv</code> files. The file must follow this format for importing:</p>
 
 
 
@@ -147,19 +152,18 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-csv" data-lang="csv"><span class="line"><span class="ln">1</span><span class="cl"><span class="s">name</span><span class="p">,</span><span class="s">url</span><span class="p">,</span><span class="s">username</span><span class="p">,</span><span class="s">password</span><span class="p">,</span><span class="s">note</span><span class="p">
 </span></span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="p"></span><span class="s2">&#34;My Site&#34;</span><span class="p">,</span><span class="s2">&#34;https://example.com&#34;</span><span class="p">,</span><span class="s2">&#34;user123&#34;</span><span class="p">,</span><span class="s2">&#34;mypassword&#34;</span></span></span></code></pre></div><p>This is the standard file which you get after exporting your file from chrome browser</p>
 <p><strong>3</strong>. Dark And Light Mode Will Be Automatically Set As Per your System Theme, changing manually will come in future version.</p>
+<p><strong>4</strong>. If you want to know more on how the code works, check out our <a href="https://github.com/ERRORLY/Laukey/blob/main/documentation.md">documentation.md</a></p>
 <h2 id="-future-versions-todo-for-v02-to-v03">📝 Future Versions TODO (for v0.2 to v0.3)</h2>
 
 
 
 
 
-<pre tabindex="0"><code>[] let user add more categories
-[] let usere choose theme colors like blue, green and others
-[] make notes to note
-[] inbuilt lock the app
-[] password choosing for hashing
-[] add theme colors
-[] dark and light mode be in app to choose from instead of depending on system</code></pre><h2 id="-supports">📫 Supports</h2>
+<pre tabindex="0"><code>- [ ] Let users add categories
+- [ ] Let users pick theme colors
+- [ ] fix notes to note issue
+- [ ] Add app lock with password
+- [ ] Add dark and light mode toggle</code></pre><h2 id="-supports">📫 Supports</h2>
 <p>To Report Bugs or Request Features Join Our <a href="https://discord.gg/JwfsagYANM">Discord</a> or <a href="mailto:errorlydev@gmail.com">Mail</a> us</p>
 
 </content>

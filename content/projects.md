@@ -36,6 +36,7 @@ author: "CYCNO"
       <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;">
         <span style="color:#374151;"><code>Application</code></span>
         <span>
+          <a href="https://github.com/ERRORLY/Laukey" style="margin-right:0.5rem;">Code</a>
           <a href="/Laukey" style="">Site</a>
         </span>
       </div>

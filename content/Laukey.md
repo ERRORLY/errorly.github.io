@@ -15,6 +15,9 @@ Ever Needed a Password manager to manage all your password in one place? Obvious
 
 ## ScreenShots
 <img src="/laukey_applications/ss/1.png" alt="Screenshot 1" style="max-width:100%; margin-bottom:20px; border-radius:12px;" />
+<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
+    <a href="https://github.com/ERRORLY/Laukey" target="_blank">source-code</a>
+</div>
 
 ## ✨ Features
 
@@ -26,6 +29,7 @@ Ever Needed a Password manager to manage all your password in one place? Obvious
 - Add/Edit Options
 - Different Categories
 - Responsive For Any Layout
+- [Open Source](https://github.com/ERRORLY/Laukey)
 
 ## 📥 Downloads
 
@@ -33,23 +37,23 @@ Ever Needed a Password manager to manage all your password in one place? Obvious
 
 
 <div style="display:flex; justify-content:center; gap:40px; margin-top:20px;">
-    <!-- Linux Dropdown -->
-  <details style="min-width:200px; text-align:center;">
-    <summary>🐧 Linux</summary>
-    <br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb">.deb (Ubuntu)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm">.rpm (OpenSuse And Others)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage">.AppImage</a>
-  </details>
-  <!-- Windows Dropdown -->
-  <details style="min-width:200px; text-align:center;">
+  <details open style="min-width:200px; text-align:center;">
     <summary>🪟 Windows</summary>
     <br/>
     <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64-setup.exe">Installer (nsis) (Recommended)</a><br/>
     <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64_en-US.msi">Installer (.msi)</a><br/>
     <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/Laukey.exe">.exe</a>
   </details>
+    <!-- Linux Dropdown -->
+  <details open style="min-width:200px; text-align:center;">
+    <summary>🐧 Linux</summary>
+    <br/>
+    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb">.deb (Ubuntu)</a><br/>
+    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm">.rpm (OpenSuse And Others)</a><br/>
+    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage">.AppImage</a>
+  </details>
 </div>
+
 <br/>
 <details>
   <summary>📦 Installer Info (Click to Expand)</summary>
@@ -65,11 +69,15 @@ Ever Needed a Password manager to manage all your password in one place? Obvious
 </details>
 <br/>
 
+## Build Or Run Through Code
+
+To Build App From Source Code, You Should Visit The [Repo](https://github.com/ERRORLY/Laukey?tab=readme-ov-file#build-or-run-through-code) Of Laukey
+
 ## 📚 Docs
 
-**1**. ❓ If your issue isn’t here, join our [**Discord**](https://discord.gg/JwfsagYANM) for quick support.
+**1**. If your issue isn’t here, join our [**Discord**](https://discord.gg/JwfsagYANM) for quick support.
 
-**2**. 📂 Import/Export works only with `.csv` files. The file must follow this format for importing:
+**2**. Import/Export works only with `.csv` files. The file must follow this format for importing:
 ```csv
 name,url,username,password,note
 "My Site","https://example.com","user123","mypassword"
@@ -78,16 +86,15 @@ This is the standard file which you get after exporting your file from chrome br
 
 **3**. Dark And Light Mode Will Be Automatically Set As Per your System Theme, changing manually will come in future version.
 
+**4**. If you want to know more on how the code works, check out our [documentation.md](https://github.com/ERRORLY/Laukey/blob/main/documentation.md)
+
 ## 📝 Future Versions TODO (for v0.2 to v0.3)
 ```
-[] let user add more categories
-[] let usere choose theme colors like blue, green and others
-[] make notes to note
-[] inbuilt lock the app
-[] password choosing for hashing
-[] add theme colors
-[] dark and light mode be in app to choose from instead of depending on system
+- [ ] Let users add categories
+- [ ] Let users pick theme colors
+- [ ] fix notes to note issue
+- [ ] Add app lock with password
+- [ ] Add dark and light mode toggle
 ```
-
 ## 📫 Supports
 To Report Bugs or Request Features Join Our [Discord](https://discord.gg/JwfsagYANM) or [Mail](mailto:errorlydev@gmail.com) us
