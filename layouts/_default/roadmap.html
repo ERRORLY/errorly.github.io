@@ -1,0 +1,119 @@
+{{ define "main" }}
+<div class="page-container">
+    <h1 class="page-title">Roadmap 2026</h1>
+
+    <div id="roadmap-list" class="roadmap-list"></div>
+</div>
+
+<script>
+    // 1. DATA: Simply add your steps here
+    const roadmapItems = [
+        {
+            date: "March 2026",
+            title: "Launch A New Product",
+            text: "Will Release A new product for the public",
+        },
+        {
+            date: "July 2026",
+            title: "v0.2 of Laukey",
+            text: "Laukey will be updated with more security and features",
+        },
+    ];
+
+    // 2. BUILDER: Constructs the list
+    const listContainer = document.getElementById("roadmap-list");
+
+    roadmapItems.forEach((item) => {
+        const itemDiv = document.createElement("div");
+        itemDiv.className = "roadmap-item";
+
+        itemDiv.innerHTML = `
+            <div class="roadmap-content">
+                <span class="roadmap-date">${item.date}</span>
+                <h3>${item.title}</h3>
+                <p>${item.text}</p>
+            </div>
+        `;
+        listContainer.appendChild(itemDiv);
+    });
+</script>
+
+<style>
+    /* 3. STYLES: Minimal and Organized */
+    .page-container {
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+
+    .page-title {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .roadmap-list {
+        position: relative;
+    }
+
+    /* The Vertical Line with Fade Out */
+    .roadmap-list::before {
+        content: "";
+        position: absolute;
+        left: 8px;
+        top: 8px;
+        bottom: 0; /* Extended to the very bottom to allow the fade space */
+        width: 2px;
+        /* Fades from solid gray to transparent at the bottom */
+        background: linear-gradient(
+            to bottom,
+            #adadad 0%,
+            #adadad 90%,
+            transparent 100%
+        );
+    }
+
+    .roadmap-item {
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 35px;
+    }
+
+    /* The Marker (Circle) */
+    .roadmap-item::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 6px;
+        width: 14px;
+        height: 14px;
+        background-color: #fff;
+        border: 2px solid #444;
+        border-radius: 50%;
+        z-index: 1;
+    }
+
+    .roadmap-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .roadmap-date {
+        font-size: 0.8rem;
+        font-weight: bold;
+        color: #888;
+        margin-bottom: 4px;
+    }
+
+    .roadmap-content h3 {
+        margin: 0;
+        font-size: 1.2rem;
+    }
+
+    .roadmap-content p {
+        margin: 5px 0 0 0;
+        color: #adadad;
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+</style>
+{{ end }}

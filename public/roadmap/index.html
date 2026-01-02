@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en-us">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/errorly.jpg" />
+<title>Roadmap | Errorly
+        </title>
+<meta name="title" content="Roadmap" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+<meta name="keywords" content="" />
+
+
+
+
+
+
+  
+  <meta property="og:url" content="http://localhost:1313/roadmap/">
+  <meta property="og:site_name" content="Errorly">
+  <meta property="og:title" content="Roadmap">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Roadmap">
+
+
+  
+  
+  <meta itemprop="name" content="Roadmap">
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+        
+        <link href="/original.min.css" rel="stylesheet" />
+
+          
+</head>
+
+    <body>
+        <header><a class="skip-link" href="#main-content">Skip to main content</a>
+
+<a href="/" class="title"><h1>Errorly</h1></a>
+<nav>
+<a href="/">Home</a>
+
+<a href="/projects/">Projects</a>
+
+<a href="/roadmap/">Roadmap</a>
+
+
+
+
+ 
+
+
+
+</nav>
+</header>
+        <main id="main-content">
+<div class="page-container">
+    <h1 class="page-title">Roadmap 2026</h1>
+
+    <div id="roadmap-list" class="roadmap-list"></div>
+</div>
+
+<script>
+    
+    const roadmapItems = [
+        {
+            date: "March 2026",
+            title: "Launch A New Product",
+            text: "Will Release A new product for the public",
+        },
+        {
+            date: "July 2026",
+            title: "v0.2 of Laukey",
+            text: "Laukey will be updated with more security and features",
+        },
+    ];
+
+    
+    const listContainer = document.getElementById("roadmap-list");
+
+    roadmapItems.forEach((item) => {
+        const itemDiv = document.createElement("div");
+        itemDiv.className = "roadmap-item";
+
+        itemDiv.innerHTML = `
+            <div class="roadmap-content">
+                <span class="roadmap-date">${item.date}</span>
+                <h3>${item.title}</h3>
+                <p>${item.text}</p>
+            </div>
+        `;
+        listContainer.appendChild(itemDiv);
+    });
+</script>
+
+<style>
+     
+    .page-container {
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+
+    .page-title {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .roadmap-list {
+        position: relative;
+    }
+
+     
+    .roadmap-list::before {
+        content: "";
+        position: absolute;
+        left: 8px;
+        top: 8px;
+        bottom: 0;  
+        width: 2px;
+         
+        background: linear-gradient(
+            to bottom,
+            #adadad 0%,
+            #adadad 90%,
+            transparent 100%
+        );
+    }
+
+    .roadmap-item {
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 35px;
+    }
+
+     
+    .roadmap-item::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 6px;
+        width: 14px;
+        height: 14px;
+        background-color: #fff;
+        border: 2px solid #444;
+        border-radius: 50%;
+        z-index: 1;
+    }
+
+    .roadmap-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .roadmap-date {
+        font-size: 0.8rem;
+        font-weight: bold;
+        color: #888;
+        margin-bottom: 4px;
+    }
+
+    .roadmap-content h3 {
+        margin: 0;
+        font-size: 1.2rem;
+    }
+
+    .roadmap-content p {
+        margin: 5px 0 0 0;
+        color: #adadad;
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+</style>
+</main>
+        <footer><small>
+  Errorly | Made With Code
+</small></footer>
+
+          
+</body>
+</html>

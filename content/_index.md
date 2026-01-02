@@ -38,8 +38,9 @@ Errorly is a small but growing team focused on building modern, useful tools tha
 
 We're just getting started, but here are a few projects already available:
 
-- [SumCode](/sumcode), a smart tool that helps you generate code quickly and efficiently
-- [Laukey](/Laukey), a powerful and beautifully designed password manager packed with features
+- [SumCode](/sumcode) - A smart tool that helps you generate code quickly and efficiently
+- [Laukey](/Laukey) - A powerful and beautifully designed password manager packed with features
+- [Wodo](/wodo) - A Simple yet Powerful Tool to manage your todos and organise it for different use cases through branches
 
 More projects are in development and will be released soon.
 

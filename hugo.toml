@@ -17,3 +17,20 @@ copyright = "Errorly"
       [markup.goldmark]
         [markup.goldmark.renderer]
           unsafe = true
+
+
+          # Navigation Menu
+          [[menu.main]]
+              name = "Home"
+              url = "/"
+              weight = 1
+
+          [[menu.main]]
+              name = "Projects"
+              url = "/projects/"
+              weight = 2
+
+          [[menu.main]]
+              name = "Roadmap"
+              url = "/roadmap/"
+              weight = 3

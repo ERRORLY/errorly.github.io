@@ -7,52 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Errorly</copyright>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Community</title>
-      <link>http://localhost:1313/community/</link>
-      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/community/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/community.jpg&#34; alt=&#34;img&#34;&gt;&#xA;We want to connect to you guys, to know what you want, &lt;strong&gt;and what problems you are facing, so we can fix it fast.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Community we are currently Active on are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://discord.gg/JwfsagYANM&#34;&gt;Discord&lt;/a&gt; - We talk to you guys here and also &lt;strong&gt;listen your complains or suggestion here&lt;/strong&gt;, so if you want to connect the most fastest way, you will find us here.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ERRORLY&#34;&gt;GitHub&lt;/a&gt; - You can find our &lt;strong&gt;projects source code here&lt;/strong&gt;, and you can also help us to improve our projects here, by &lt;strong&gt;contributing and reporting bugs&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:errorlydev@gmail.com&#34;&gt;Gmail&lt;/a&gt; - If you want to ask question or any queries that you think are &lt;strong&gt;important&lt;/strong&gt; to you, or you want to connect to us on a &lt;strong&gt;professional&lt;/strong&gt; level, gmail is always open for you.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://x.com/ErrorlyDev&#34;&gt;Twitter (X)&lt;/a&gt; - For &lt;strong&gt;fast updates, news, and important announcements&lt;/strong&gt;, this is where we keep you posted.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hope you enjoy the Community :)&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><img src="/community.jpg" alt="img">
-We want to connect to you guys, to know what you want, <strong>and what problems you are facing, so we can fix it fast.</strong></p>
-<p>The Community we are currently Active on are:</p>
-<ul>
-<li><a href="https://discord.gg/JwfsagYANM">Discord</a> - We talk to you guys here and also <strong>listen your complains or suggestion here</strong>, so if you want to connect the most fastest way, you will find us here.</li>
-<li><a href="https://github.com/ERRORLY">GitHub</a> - You can find our <strong>projects source code here</strong>, and you can also help us to improve our projects here, by <strong>contributing and reporting bugs</strong>.</li>
-<li><a href="mailto:errorlydev@gmail.com">Gmail</a> - If you want to ask question or any queries that you think are <strong>important</strong> to you, or you want to connect to us on a <strong>professional</strong> level, gmail is always open for you.</li>
-<li><a href="https://x.com/ErrorlyDev">Twitter (X)</a> - For <strong>fast updates, news, and important announcements</strong>, this is where we keep you posted.</li>
-</ul>
-<p>Hope you enjoy the Community :)</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.jpg&#34; alt=&#34;img&#34;&gt;&#xA;These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page&lt;/p&gt;&#xA;&lt;div style=&#34;max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;&#34;&gt;&#xA;  &lt;!-- Card 1 --&gt;&#xA;  &lt;div onclick=&#34;window.location.href=&#39;http://localhost:1313/projects/sumcode&#39;&#34; style=&#34;cursor: pointer; border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/sumcode&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/sumcodepreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;SumCode&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A website to generate Snippet of Code For Free, and the website is also opensource for anyone to look in the code&lt;/p&gt;&#xA;      &lt;div style=&#34;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;&#34;&gt;&#xA;        &lt;span style=&#34;color:#374151;&#34;&gt;&lt;code&gt;Website&lt;/code&gt;&lt;/span&gt;&#xA;        &lt;span&gt;&#xA;          &lt;a href=&#34;https://github.com/ERRORLY/sumcode.site&#34; style=&#34;margin-right:0.5rem;&#34;&gt;Code&lt;/a&gt;&#xA;          &lt;a href=&#34;https://sumcode.site&#34; style=&#34;&#34;&gt;Site&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/laukey_applications/laukeypreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Laukey&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Feature Rich Password Manager with Beutiful UI with lots of features and A Good Security For Windows And Linux&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.jpg&#34; alt=&#34;img&#34;&gt;&#xA;These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page&lt;/p&gt;&#xA;&lt;div style=&#34;max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;&#34;&gt;&#xA;  &lt;!-- Card 1 --&gt;&#xA;  &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/laukey_applications/laukeypreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Laukey&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Feature Rich Password Manager with Beutiful UI with lots of features and A Good Security For Windows And Linux&lt;/p&gt;&#xA;      &lt;div style=&#34;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;&#34;&gt;&#xA;        &lt;span style=&#34;color:#374151;&#34;&gt;&lt;code&gt;Application&lt;/code&gt;&lt;/span&gt;&#xA;        &lt;span&gt;&#xA;          &lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34; style=&#34;margin-right:0.5rem;&#34;&gt;Code&lt;/a&gt;&#xA;          &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;&#34;&gt;Site&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div onclick=&#34;window.location.href=&#39;http://localhost:1313/projects/sumcode&#39;&#34; style=&#34;cursor: pointer; border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/sumcode&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/sumcodepreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;SumCode&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A website to generate Snippet of Code For Free, and the website is also opensource for anyone to look in the code&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img src="/projects.jpg" alt="img">
 These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page</p>
 <div style="max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;">
   <!-- Card 1 -->
-  <div onclick="window.location.href='/projects/sumcode'" style="cursor: pointer; border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
-    <a href="/sumcode" style="display:block;color:inherit;text-decoration:none;">
-        <img src="/sumcodepreview.png" alt="SumCode" style="width:100%;height:140px;object-fit:cover;"/>
-    </a>
-    <div style="padding:1rem;">
-      <h3 style="margin:0;font-size:1.1rem;font-weight:600;color:#fff;">SumCode</h3>
-      <p style="margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;">A website to generate Snippet of Code For Free, and the website is also opensource for anyone to look in the code</p>
-      <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;">
-        <span style="color:#374151;"><code>Website</code></span>
-        <span>
-          <a href="https://github.com/ERRORLY/sumcode.site" style="margin-right:0.5rem;">Code</a>
-          <a href="https://sumcode.site" style="">Site</a>
-        </span>
-      </div>
-    </div>
-  </div>
   <div style="border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
     <a href="/Laukey" style="display:block;color:inherit;text-decoration:none;">
         <img src="/laukey_applications/laukeypreview.png" alt="SumCode" style="width:100%;height:140px;object-fit:cover;"/>
@@ -69,7 +35,134 @@ These are some works that are been done, and other projects are currently in dev
       </div>
     </div>
   </div>
+  <div onclick="window.location.href='/projects/sumcode'" style="cursor: pointer; border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
+    <a href="/sumcode" style="display:block;color:inherit;text-decoration:none;">
+        <img src="/sumcodepreview.png" alt="SumCode" style="width:100%;height:140px;object-fit:cover;"/>
+    </a>
+    <div style="padding:1rem;">
+      <h3 style="margin:0;font-size:1.1rem;font-weight:600;color:#fff;">SumCode</h3>
+      <p style="margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;">A website to generate Snippet of Code For Free, and the website is also opensource for anyone to look in the code</p>
+      <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;">
+        <span style="color:#374151;"><code>Website</code></span>
+        <span>
+          <a href="https://github.com/ERRORLY/sumcode.site" style="margin-right:0.5rem;">Code</a>
+          <a href="https://sumcode.site" style="">Site</a>
+        </span>
+      </div>
+    </div>
+  </div>
 </div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Wodo</title>
+      <link>http://localhost:1313/wodo/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wodo/</guid>
+      <description>&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/wodo-logo.png&#34; alt=&#34;Wodo Logo&#34;/&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;A Simple yet Powerful Tool to manage your todos and organise it for different use cases through branches, Built in rust for fast performance&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;~$ wodo help&#xA;  Wodo CLI - Commands:&#xA;    add &amp;lt;message&amp;gt;     ➜ Add a new todo item&#xA;    show              ➜ Show all todos&#xA;    done &amp;lt;number&amp;gt;     ➜ Mark todo item as done&#xA;    delete &amp;lt;number&amp;gt;   ➜ Delete a todo item&#xA;    help              ➜ Show this help message&#xA;                ---&#xA;  Branch Related Commands:&#xA;    branch create &amp;lt;name&amp;gt;      ➜ Add a new branch&#xA;    branch show               ➜ Show all the branches&#xA;    branch switch &amp;lt;number&amp;gt;    ➜ Switch to other branches&#xA;    branch delete &amp;lt;number&amp;gt;    ➜ Delete a branch&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;~$ wodo show&#xA;      ------------------------------------------------------&#xA;     | No | Message (Showcase)                         | Box |&#xA;      ------------------------------------------------------&#xA;     | 1  | showcase wodo                              | [ ] |&#xA;     | 2  | hello people                               | [ ] |&#xA;      ------------------------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;-features&#34;&gt;✨ Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt; and lightweight, Build in rust.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Branch Based system&lt;/strong&gt; to organise todos&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ERRORLY/wodo&#34;&gt;&lt;strong&gt;OpenSource&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-installation&#34;&gt;✨ Installation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;For Windows&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
+    <img src="/wodo-logo.png" alt="Wodo Logo"/>
+</div>
+<p>A Simple yet Powerful Tool to manage your todos and organise it for different use cases through branches, Built in rust for fast performance</p>
+
+
+
+
+
+<pre tabindex="0"><code>~$ wodo help
+  Wodo CLI - Commands:
+    add &lt;message&gt;     ➜ Add a new todo item
+    show              ➜ Show all todos
+    done &lt;number&gt;     ➜ Mark todo item as done
+    delete &lt;number&gt;   ➜ Delete a todo item
+    help              ➜ Show this help message
+                ---
+  Branch Related Commands:
+    branch create &lt;name&gt;      ➜ Add a new branch
+    branch show               ➜ Show all the branches
+    branch switch &lt;number&gt;    ➜ Switch to other branches
+    branch delete &lt;number&gt;    ➜ Delete a branch</code></pre>
+
+
+
+
+<pre tabindex="0"><code>~$ wodo show
+      ------------------------------------------------------
+     | No | Message (Showcase)                         | Box |
+      ------------------------------------------------------
+     | 1  | showcase wodo                              | [ ] |
+     | 2  | hello people                               | [ ] |
+      ------------------------------------------------------</code></pre><h2 id="-features">✨ Features</h2>
+<ul>
+<li><strong>Fast</strong> and lightweight, Build in rust.</li>
+<li><strong>Branch Based system</strong> to organise todos</li>
+<li><a href="https://github.com/ERRORLY/wodo"><strong>OpenSource</strong></a></li>
+</ul>
+<h2 id="-installation">✨ Installation</h2>
+<ul>
+<li>
+<p><strong>For Windows</strong></p>
+
+
+
+
+
+<pre tabindex="0"><code>$dir = &#34;$env:USERPROFILE\.wodo&#34;
+mkdir $dir -Force | Out-Null
+Invoke-WebRequest -Uri &#34;https://github.com/ERRORLY/wodo/releases/latest/download/wodo-windows.zip&#34; -OutFile &#34;$dir\wodo.zip&#34;
+Expand-Archive &#34;$dir\wodo.zip&#34; -DestinationPath $dir -Force
+del &#34;$dir\wodo.zip&#34;
+setx PATH &#34;$env:Path;$dir&#34;</code></pre></li>
+<li>
+<p><strong>For MacOS</strong></p>
+<ul>
+<li>This will work in most MacOS version.</li>
+</ul>
+
+
+
+
+
+<pre tabindex="0"><code>curl -L -o wodo.zip &#34;https://github.com/ERRORLY/wodo/releases/latest/download/wodo-x86_64-apple-darwin.zip&#34; &amp;&amp; \
+unzip wodo.zip &amp;&amp; \
+chmod +x wodo &amp;&amp; \
+sudo mv wodo /usr/local/bin/ &amp;&amp; \
+rm wodo.zip</code></pre><ul>
+<li>If it doesn&rsquo;t work for your MacOS architecture you can download <a href="https://github.com/ERRORLY/wodo/releases/latest">other MacOS version</a>.</li>
+</ul>
+</li>
+<li>
+<p><strong>For Linux</strong></p>
+
+
+
+
+
+<pre tabindex="0"><code>curl -L -o wodo.zip &#34;https://github.com/ERRORLY/wodo/releases/latest/download/wodo-x86_64-unknown-linux-gnu.zip&#34; &amp;&amp; \
+unzip wodo.zip &amp;&amp; \
+chmod +x wodo &amp;&amp; \
+sudo mv wodo /usr/local/bin/ &amp;&amp; \
+rm wodo.zip</code></pre><ul>
+<li>If your linux is musl architecture based than <a href="https://github.com/ERRORLY/wodo/releases/latest">download</a> that one.</li>
+</ul>
+</li>
+<li>
+<p><strong>From Source Code</strong></p>
+<ul>
+<li>make sure to <strong><a href="https://rust-lang.org/tools/install/">install rust</a> first</strong> and than</li>
+</ul>
+
+
+
+
+
+<pre tabindex="0"><code>git clone https://github.com/ERRORLY/wodo # Or download the code
+cd wodo
+cargo build --release</code></pre><p>and then you will find wodo executables (as per your OS) in <strong>target/release/</strong></p>
+</li>
+</ul>
+<h2 id="-contribution-or-support">✨ Contribution or Support</h2>
+<p>If you want to <strong>Contribute</strong> or understand how it wodo works, see our <a href="https://github.com/ERRORLY/wodo/blob/main/contribution.md">countribution.md</a> Or if you want to add <strong>features or report bugs</strong>, create a new <a href="https://github.com/ERRORLY/wodo/issues">issue</a> in our github repo, or <a href="/community">contact us</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -106,12 +199,13 @@ These are some works that are been done, and other projects are currently in dev
       <link>http://localhost:1313/Laukey/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Laukey/</guid>
-      <description>&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/laukey_applications/laukey_logo.png&#34; alt=&#34;Laukey logo&#34; width=&#34;256&#34; height=&#34;256&#34; /&gt;&#xA;&lt;/div&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Laukey is in Beta, So You May encounter some bugs.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;ScreenShots&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/laukey_applications/ss/1.png&#34; alt=&#34;Screenshot 1&#34; style=&#34;max-width:100%; margin-bottom:20px; border-radius:12px;&#34; /&gt;&#xA;&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34; target=&#34;_blank&#34;&gt;source-code&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;-features&#34;&gt;✨ Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No Authentication or Login Required&lt;/li&gt;&#xA;&lt;li&gt;Clean And Modern UI&lt;/li&gt;&#xA;&lt;li&gt;Dark And Light Mode Supports&lt;/li&gt;&#xA;&lt;li&gt;Passwords Encrypted And Saved Locally&lt;/li&gt;&#xA;&lt;li&gt;Import And Export in CSV&lt;/li&gt;&#xA;&lt;li&gt;Add/Edit Options&lt;/li&gt;&#xA;&lt;li&gt;Different Categories&lt;/li&gt;&#xA;&lt;li&gt;Responsive For Any Layout&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34;&gt;Open Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-downloads&#34;&gt;📥 Downloads&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the &lt;a href=&#34;https://www.digicert.com/signing/compare-code-signing-certificates&#34;&gt;high cost of a certificate&lt;/a&gt;. Click &amp;ldquo;More info&amp;rdquo; &amp;gt; &amp;ldquo;Run anyway&amp;rdquo; to proceed safely.&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/laukey_applications/laukey_logo.png&#34; alt=&#34;Laukey logo&#34; width=&#34;256&#34; height=&#34;256&#34; /&gt;&#xA;&lt;/div&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Laukey is in Beta, So You May encounter some bugs.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;ScreenShots&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/laukey_applications/ss/1.png&#34; alt=&#34;Screenshot 1&#34; style=&#34;max-width:100%; margin-bottom:20px; border-radius:12px;&#34; /&gt;&#xA;&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34; target=&#34;_blank&#34;&gt;source-code&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;-features&#34;&gt;✨ Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No Authentication or Login Required&lt;/li&gt;&#xA;&lt;li&gt;Clean And Modern UI&lt;/li&gt;&#xA;&lt;li&gt;Dark And Light Mode Supports&lt;/li&gt;&#xA;&lt;li&gt;Passwords Encrypted And Saved Locally&lt;/li&gt;&#xA;&lt;li&gt;Import And Export in CSV&lt;/li&gt;&#xA;&lt;li&gt;Add/Edit Options&lt;/li&gt;&#xA;&lt;li&gt;Different Categories&lt;/li&gt;&#xA;&lt;li&gt;Responsive For Any Layout&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34;&gt;Open Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-downloads&#34;&gt;📥 Downloads&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the &lt;a href=&#34;https://www.digicert.com/signing/compare-code-signing-certificates&#34;&gt;high cost of a certificate&lt;/a&gt;. Click &amp;ldquo;More info&amp;rdquo; &amp;gt; &amp;ldquo;Run anyway&amp;rdquo; to proceed safely.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
     <img src="/laukey_applications/laukey_logo.png" alt="Laukey logo" width="256" height="256" />
 </div>
 <blockquote>
-<p>Laukey is in Beta, So You May encounter some bugs.</p></blockquote>
+<p>Laukey is in Beta, So You May encounter some bugs.</p>
+</blockquote>
 <p>Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI</p>
 <h2 id="screenshots">ScreenShots</h2>
 <img src="/laukey_applications/ss/1.png" alt="Screenshot 1" style="max-width:100%; margin-bottom:20px; border-radius:12px;" />
@@ -132,7 +226,8 @@ These are some works that are been done, and other projects are currently in dev
 </ul>
 <h2 id="-downloads">📥 Downloads</h2>
 <blockquote>
-<p>Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the <a href="https://www.digicert.com/signing/compare-code-signing-certificates">high cost of a certificate</a>. Click &ldquo;More info&rdquo; &gt; &ldquo;Run anyway&rdquo; to proceed safely.</p></blockquote>
+<p>Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the <a href="https://www.digicert.com/signing/compare-code-signing-certificates">high cost of a certificate</a>. Click &ldquo;More info&rdquo; &gt; &ldquo;Run anyway&rdquo; to proceed safely.</p>
+</blockquote>
 <div style="display:flex; justify-content:center; gap:40px; margin-top:20px;">
   <details open style="min-width:200px; text-align:center;">
     <summary>🪟 Windows</summary>
@@ -197,6 +292,14 @@ These are some works that are been done, and other projects are currently in dev
       <link>http://localhost:1313/projects/test3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/test3/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Roadmap</title>
+      <link>http://localhost:1313/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roadmap/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
