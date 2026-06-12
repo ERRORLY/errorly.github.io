@@ -7,17 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Errorly</copyright>
-    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.jpg&#34; alt=&#34;img&#34;&gt;&#xA;These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page&lt;/p&gt;&#xA;&lt;div style=&#34;max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;&#34;&gt;&#xA;  &lt;!-- Card 1 --&gt;&#xA;  &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/laukey_applications/laukeypreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Laukey&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Feature Rich Password Manager with Beutiful UI with lots of features and A Good Security For Windows And Linux&lt;/p&gt;&#xA;      &lt;div style=&#34;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;&#34;&gt;&#xA;        &lt;span style=&#34;color:#374151;&#34;&gt;&lt;code&gt;Application&lt;/code&gt;&lt;/span&gt;&#xA;        &lt;span&gt;&#xA;          &lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34; style=&#34;margin-right:0.5rem;&#34;&gt;Code&lt;/a&gt;&#xA;          &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;&#34;&gt;Site&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div onclick=&#34;window.location.href=&#39;http://localhost:1313/projects/sumcode&#39;&#34; style=&#34;cursor: pointer; border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/sumcode&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/sumcodepreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;SumCode&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A website to generate Snippet of Code For Free, and the website is also opensource for anyone to look in the code&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.jpg&#34; alt=&#34;img&#34;&gt;&#xA;These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page&lt;/p&gt;&#xA;&lt;div style=&#34;max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;&#34;&gt;&#xA;    &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;      &lt;a href=&#34;https://bintoo.xyz/&#34; target=&#34;_blank&#34; style=&#34;display:block;color:inherit;text-decoration:none;overflow:hidden;position:relative;&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:1313/bintoo-banner.png&#34; alt=&#34;Bintoo&#34; style=&#34;width:100%;height:140px;object-fit:cover;transform: scale(2);&#34;/&gt;&#xA;      &lt;/a&gt;&#xA;      &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;        &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Bintoo&lt;/h3&gt;&#xA;        &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Local Minecraft server maker for windows and linux&lt;/p&gt;&#xA;        &lt;div style=&#34;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;&#34;&gt;&#xA;          &lt;span style=&#34;color:#374151;&#34;&gt;&lt;code&gt;Application&lt;/code&gt;&lt;/span&gt;&#xA;          &lt;span&gt;&#xA;            &lt;a href=&#34;https://github.com/ERRORLY/bintoo-website&#34; style=&#34;margin-right:0.5rem;&#34;&gt;Code&lt;/a&gt;&#xA;            &lt;a href=&#34;https://bintoo.xyz/&#34; style=&#34;&#34;&gt;Site&lt;/a&gt;&#xA;          &lt;/span&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;!-- Card 1 --&gt;&#xA;  &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/laukey_applications/laukeypreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Laukey&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Feature Rich Password Manager with Beutiful UI with lots of features and A Good Security For Windows And Linux&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img src="/projects.jpg" alt="img">
 These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page</p>
 <div style="max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;">
+    <div style="border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
+      <a href="https://bintoo.xyz/" target="_blank" style="display:block;color:inherit;text-decoration:none;overflow:hidden;position:relative;">
+          <img src="/bintoo-banner.png" alt="Bintoo" style="width:100%;height:140px;object-fit:cover;transform: scale(2);"/>
+      </a>
+      <div style="padding:1rem;">
+        <h3 style="margin:0;font-size:1.1rem;font-weight:600;color:#fff;">Bintoo</h3>
+        <p style="margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;">A Local Minecraft server maker for windows and linux</p>
+        <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;">
+          <span style="color:#374151;"><code>Application</code></span>
+          <span>
+            <a href="https://github.com/ERRORLY/bintoo-website" style="margin-right:0.5rem;">Code</a>
+            <a href="https://bintoo.xyz/" style="">Site</a>
+          </span>
+        </div>
+      </div>
+    </div>
   <!-- Card 1 -->
   <div style="border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
     <a href="/Laukey" style="display:block;color:inherit;text-decoration:none;">
@@ -52,117 +68,6 @@ These are some works that are been done, and other projects are currently in dev
     </div>
   </div>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Wodo</title>
-      <link>http://localhost:1313/wodo/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wodo/</guid>
-      <description>&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/wodo-logo.png&#34; alt=&#34;Wodo Logo&#34;/&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;A Simple yet Powerful Tool to manage your todos and organise it for different use cases through branches, Built in rust for fast performance&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;~$ wodo help&#xA;  Wodo CLI - Commands:&#xA;    add &amp;lt;message&amp;gt;     ➜ Add a new todo item&#xA;    show              ➜ Show all todos&#xA;    done &amp;lt;number&amp;gt;     ➜ Mark todo item as done&#xA;    delete &amp;lt;number&amp;gt;   ➜ Delete a todo item&#xA;    help              ➜ Show this help message&#xA;                ---&#xA;  Branch Related Commands:&#xA;    branch create &amp;lt;name&amp;gt;      ➜ Add a new branch&#xA;    branch show               ➜ Show all the branches&#xA;    branch switch &amp;lt;number&amp;gt;    ➜ Switch to other branches&#xA;    branch delete &amp;lt;number&amp;gt;    ➜ Delete a branch&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;~$ wodo show&#xA;      ------------------------------------------------------&#xA;     | No | Message (Showcase)                         | Box |&#xA;      ------------------------------------------------------&#xA;     | 1  | showcase wodo                              | [ ] |&#xA;     | 2  | hello people                               | [ ] |&#xA;      ------------------------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;-features&#34;&gt;✨ Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt; and lightweight, Build in rust.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Branch Based system&lt;/strong&gt; to organise todos&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ERRORLY/wodo&#34;&gt;&lt;strong&gt;OpenSource&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-installation&#34;&gt;✨ Installation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;For Windows&lt;/strong&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
-    <img src="/wodo-logo.png" alt="Wodo Logo"/>
-</div>
-<p>A Simple yet Powerful Tool to manage your todos and organise it for different use cases through branches, Built in rust for fast performance</p>
-
-
-
-
-
-<pre tabindex="0"><code>~$ wodo help
-  Wodo CLI - Commands:
-    add &lt;message&gt;     ➜ Add a new todo item
-    show              ➜ Show all todos
-    done &lt;number&gt;     ➜ Mark todo item as done
-    delete &lt;number&gt;   ➜ Delete a todo item
-    help              ➜ Show this help message
-                ---
-  Branch Related Commands:
-    branch create &lt;name&gt;      ➜ Add a new branch
-    branch show               ➜ Show all the branches
-    branch switch &lt;number&gt;    ➜ Switch to other branches
-    branch delete &lt;number&gt;    ➜ Delete a branch</code></pre>
-
-
-
-
-<pre tabindex="0"><code>~$ wodo show
-      ------------------------------------------------------
-     | No | Message (Showcase)                         | Box |
-      ------------------------------------------------------
-     | 1  | showcase wodo                              | [ ] |
-     | 2  | hello people                               | [ ] |
-      ------------------------------------------------------</code></pre><h2 id="-features">✨ Features</h2>
-<ul>
-<li><strong>Fast</strong> and lightweight, Build in rust.</li>
-<li><strong>Branch Based system</strong> to organise todos</li>
-<li><a href="https://github.com/ERRORLY/wodo"><strong>OpenSource</strong></a></li>
-</ul>
-<h2 id="-installation">✨ Installation</h2>
-<ul>
-<li>
-<p><strong>For Windows</strong></p>
-
-
-
-
-
-<pre tabindex="0"><code>$dir = &#34;$env:USERPROFILE\.wodo&#34;
-mkdir $dir -Force | Out-Null
-Invoke-WebRequest -Uri &#34;https://github.com/ERRORLY/wodo/releases/latest/download/wodo-windows.zip&#34; -OutFile &#34;$dir\wodo.zip&#34;
-Expand-Archive &#34;$dir\wodo.zip&#34; -DestinationPath $dir -Force
-del &#34;$dir\wodo.zip&#34;
-setx PATH &#34;$env:Path;$dir&#34;</code></pre></li>
-<li>
-<p><strong>For MacOS</strong></p>
-<ul>
-<li>This will work in most MacOS version.</li>
-</ul>
-
-
-
-
-
-<pre tabindex="0"><code>curl -L -o wodo.zip &#34;https://github.com/ERRORLY/wodo/releases/latest/download/wodo-x86_64-apple-darwin.zip&#34; &amp;&amp; \
-unzip wodo.zip &amp;&amp; \
-chmod +x wodo &amp;&amp; \
-sudo mv wodo /usr/local/bin/ &amp;&amp; \
-rm wodo.zip</code></pre><ul>
-<li>If it doesn&rsquo;t work for your MacOS architecture you can download <a href="https://github.com/ERRORLY/wodo/releases/latest">other MacOS version</a>.</li>
-</ul>
-</li>
-<li>
-<p><strong>For Linux</strong></p>
-
-
-
-
-
-<pre tabindex="0"><code>curl -L -o wodo.zip &#34;https://github.com/ERRORLY/wodo/releases/latest/download/wodo-x86_64-unknown-linux-gnu.zip&#34; &amp;&amp; \
-unzip wodo.zip &amp;&amp; \
-chmod +x wodo &amp;&amp; \
-sudo mv wodo /usr/local/bin/ &amp;&amp; \
-rm wodo.zip</code></pre><ul>
-<li>If your linux is musl architecture based than <a href="https://github.com/ERRORLY/wodo/releases/latest">download</a> that one.</li>
-</ul>
-</li>
-<li>
-<p><strong>From Source Code</strong></p>
-<ul>
-<li>make sure to <strong><a href="https://rust-lang.org/tools/install/">install rust</a> first</strong> and than</li>
-</ul>
-
-
-
-
-
-<pre tabindex="0"><code>git clone https://github.com/ERRORLY/wodo # Or download the code
-cd wodo
-cargo build --release</code></pre><p>and then you will find wodo executables (as per your OS) in <strong>target/release/</strong></p>
-</li>
-</ul>
-<h2 id="-contribution-or-support">✨ Contribution or Support</h2>
-<p>If you want to <strong>Contribute</strong> or understand how it wodo works, see our <a href="https://github.com/ERRORLY/wodo/blob/main/contribution.md">countribution.md</a> Or if you want to add <strong>features or report bugs</strong>, create a new <a href="https://github.com/ERRORLY/wodo/issues">issue</a> in our github repo, or <a href="/community">contact us</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -270,7 +175,7 @@ cargo build --release</code></pre><p>and then you will find wodo executables (as
 
 
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-csv" data-lang="csv"><span class="line"><span class="ln">1</span><span class="cl"><span class="s">name</span><span class="p">,</span><span class="s">url</span><span class="p">,</span><span class="s">username</span><span class="p">,</span><span class="s">password</span><span class="p">,</span><span class="s">note</span><span class="p">
-</span></span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="p"></span><span class="s2">&#34;My Site&#34;</span><span class="p">,</span><span class="s2">&#34;https://example.com&#34;</span><span class="p">,</span><span class="s2">&#34;user123&#34;</span><span class="p">,</span><span class="s2">&#34;mypassword&#34;</span></span></span></code></pre></div><p>This is the standard file which you get after exporting your file from chrome browser</p>
+</span></span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="s2">&#34;My Site&#34;</span><span class="p">,</span><span class="s2">&#34;https://example.com&#34;</span><span class="p">,</span><span class="s2">&#34;user123&#34;</span><span class="p">,</span><span class="s2">&#34;mypassword&#34;</span></span></span></code></pre></div><p>This is the standard file which you get after exporting your file from chrome browser</p>
 <p><strong>3</strong>. Dark And Light Mode Will Be Automatically Set As Per your System Theme, changing manually will come in future version.</p>
 <p><strong>4</strong>. If you want to know more on how the code works, check out our <a href="https://github.com/ERRORLY/Laukey/blob/main/documentation.md">documentation.md</a></p>
 <h2 id="-future-versions-todo-for-v02-to-v03">📝 Future Versions TODO (for v0.2 to v0.3)</h2>
@@ -286,14 +191,6 @@ cargo build --release</code></pre><p>and then you will find wodo executables (as
 - [ ] Add dark and light mode toggle</code></pre><h2 id="-supports">📫 Supports</h2>
 <p>To Report Bugs or Request Features Join Our <a href="https://discord.gg/JwfsagYANM">Discord</a> or <a href="mailto:errorlydev@gmail.com">Mail</a> us</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/projects/test3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/test3/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Roadmap</title>

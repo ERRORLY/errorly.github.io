@@ -10,8 +10,8 @@ author: "CYCNO"
 
 <div style="max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;">
     <div style="border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
-      <a href="https://bintoo.xyz/" target="_blank" style="display:block;color:inherit;text-decoration:none;">
-          <img src="/bintoo-banner.png" alt="Bintoo" style="width:100%;height:140px;object-fit:cover;"/>
+      <a href="https://bintoo.xyz/" target="_blank" style="display:block;color:inherit;text-decoration:none;overflow:hidden;position:relative;">
+          <img src="/bintoo-banner.png" alt="Bintoo" style="width:100%;height:140px;object-fit:cover;transform: scale(2);"/>
       </a>
       <div style="padding:1rem;">
         <h3 style="margin:0;font-size:1.1rem;font-weight:600;color:#fff;">Bintoo</h3>
