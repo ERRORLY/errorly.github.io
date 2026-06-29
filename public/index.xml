@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Errorly</copyright>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.jpg&#34; alt=&#34;img&#34;&gt;&#xA;These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page&lt;/p&gt;&#xA;&lt;div style=&#34;max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;&#34;&gt;&#xA;    &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;      &lt;a href=&#34;https://bintoo.xyz/&#34; target=&#34;_blank&#34; style=&#34;display:block;color:inherit;text-decoration:none;overflow:hidden;position:relative;&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:1313/bintoo-banner.png&#34; alt=&#34;Bintoo&#34; style=&#34;width:100%;height:140px;object-fit:cover;transform: scale(2);&#34;/&gt;&#xA;      &lt;/a&gt;&#xA;      &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;        &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Bintoo&lt;/h3&gt;&#xA;        &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Local Minecraft server maker for windows and linux&lt;/p&gt;&#xA;        &lt;div style=&#34;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;&#34;&gt;&#xA;          &lt;span style=&#34;color:#374151;&#34;&gt;&lt;code&gt;Application&lt;/code&gt;&lt;/span&gt;&#xA;          &lt;span&gt;&#xA;            &lt;a href=&#34;https://github.com/ERRORLY/bintoo-website&#34; style=&#34;margin-right:0.5rem;&#34;&gt;Code&lt;/a&gt;&#xA;            &lt;a href=&#34;https://bintoo.xyz/&#34; style=&#34;&#34;&gt;Site&lt;/a&gt;&#xA;          &lt;/span&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;!-- Card 1 --&gt;&#xA;  &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/laukey_applications/laukeypreview.png&#34; alt=&#34;SumCode&#34; style=&#34;width:100%;height:140px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Laukey&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Feature Rich Password Manager with Beutiful UI with lots of features and A Good Security For Windows And Linux&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.jpg&#34; alt=&#34;img&#34;&gt;&#xA;These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page&lt;/p&gt;&#xA;&lt;div style=&#34;max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;&#34;&gt;&#xA;    &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;      &lt;a href=&#34;https://bintoo.xyz/&#34; target=&#34;_blank&#34; style=&#34;display:block;color:inherit;text-decoration:none;overflow:hidden;position:relative;&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:1313/bintoo-banner.png&#34; alt=&#34;Bintoo&#34; style=&#34;width:100%;height:140px;object-fit:cover;transform: scale(2);&#34;/&gt;&#xA;      &lt;/a&gt;&#xA;      &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;        &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Bintoo&lt;/h3&gt;&#xA;        &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Minecraft server manager, that can host and manage servers locally and it&#39;s completely free and available for windows and linux&lt;/p&gt;&#xA;        &lt;div style=&#34;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;&#34;&gt;&#xA;          &lt;span style=&#34;color:#374151;&#34;&gt;&lt;code&gt;Application&lt;/code&gt;&lt;/span&gt;&#xA;          &lt;span&gt;&#xA;            &lt;a href=&#34;https://github.com/ERRORLY/bintoo-website&#34; style=&#34;margin-right:0.5rem;&#34;&gt;Code&lt;/a&gt;&#xA;            &lt;a href=&#34;https://bintoo.xyz/&#34; style=&#34;&#34;&gt;Site&lt;/a&gt;&#xA;          &lt;/span&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;!-- Card 1 --&gt;&#xA;  &lt;div style=&#34;border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/Laukey&#34; style=&#34;display:block;color:inherit;text-decoration:none;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/laukey_applications/laukeypreview.png&#34; alt=&#34;Laukey&#34; style=&#34;width:100%;height:150px;object-fit:cover;&#34;/&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;div style=&#34;padding:1rem;&#34;&gt;&#xA;      &lt;h3 style=&#34;margin:0;font-size:1.1rem;font-weight:600;color:#fff;&#34;&gt;Laukey&lt;/h3&gt;&#xA;      &lt;p style=&#34;margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;&#34;&gt;A Feature Rich Password Manager with Beutiful UI with lots of features and A Good Security For Windows And Linux&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img src="/projects.jpg" alt="img">
 These are some works that are been done, and other projects are currently in development, for more info you can visit our discord server or our github page</p>
 <div style="max-width:1000px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;font-family:sans-serif;">
@@ -24,7 +24,7 @@ These are some works that are been done, and other projects are currently in dev
       </a>
       <div style="padding:1rem;">
         <h3 style="margin:0;font-size:1.1rem;font-weight:600;color:#fff;">Bintoo</h3>
-        <p style="margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;">A Local Minecraft server maker for windows and linux</p>
+        <p style="margin:0.5rem 0 0.75rem;font-size:0.9rem;color:#bcbcbc;">A Minecraft server manager, that can host and manage servers locally and it's completely free and available for windows and linux</p>
         <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;">
           <span style="color:#374151;"><code>Application</code></span>
           <span>
@@ -37,7 +37,7 @@ These are some works that are been done, and other projects are currently in dev
   <!-- Card 1 -->
   <div style="border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
     <a href="/Laukey" style="display:block;color:inherit;text-decoration:none;">
-        <img src="/laukey_applications/laukeypreview.png" alt="SumCode" style="width:100%;height:140px;object-fit:cover;"/>
+        <img src="/laukey_applications/laukeypreview.png" alt="Laukey" style="width:100%;height:150px;object-fit:cover;"/>
     </a>
     <div style="padding:1rem;">
       <h3 style="margin:0;font-size:1.1rem;font-weight:600;color:#fff;">Laukey</h3>
@@ -52,7 +52,7 @@ These are some works that are been done, and other projects are currently in dev
     </div>
   </div>
   <div onclick="window.location.href='/projects/sumcode'" style="cursor: pointer; border:1px solid #484f5e;border-radius:12px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.05);transition:transform 0.2s,box-shadow 0.2s;">
-    <a href="/sumcode" style="display:block;color:inherit;text-decoration:none;">
+    <a href="https://sumcode.site" style="display:block;color:inherit;text-decoration:none;">
         <img src="/sumcodepreview.png" alt="SumCode" style="width:100%;height:140px;object-fit:cover;"/>
     </a>
     <div style="padding:1rem;">
@@ -102,94 +102,227 @@ These are some works that are been done, and other projects are currently in dev
     <item>
       <title>Laukey</title>
       <link>http://localhost:1313/Laukey/</link>
-      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Laukey/</guid>
-      <description>&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/laukey_applications/laukey_logo.png&#34; alt=&#34;Laukey logo&#34; width=&#34;256&#34; height=&#34;256&#34; /&gt;&#xA;&lt;/div&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Laukey is in Beta, So You May encounter some bugs.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;ScreenShots&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/laukey_applications/ss/1.png&#34; alt=&#34;Screenshot 1&#34; style=&#34;max-width:100%; margin-bottom:20px; border-radius:12px;&#34; /&gt;&#xA;&lt;div style=&#34;display:flex; align-items: center; justify-content: center; gap: 30px;&#34;&gt;&#xA;    &lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34; target=&#34;_blank&#34;&gt;source-code&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;-features&#34;&gt;✨ Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No Authentication or Login Required&lt;/li&gt;&#xA;&lt;li&gt;Clean And Modern UI&lt;/li&gt;&#xA;&lt;li&gt;Dark And Light Mode Supports&lt;/li&gt;&#xA;&lt;li&gt;Passwords Encrypted And Saved Locally&lt;/li&gt;&#xA;&lt;li&gt;Import And Export in CSV&lt;/li&gt;&#xA;&lt;li&gt;Add/Edit Options&lt;/li&gt;&#xA;&lt;li&gt;Different Categories&lt;/li&gt;&#xA;&lt;li&gt;Responsive For Any Layout&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ERRORLY/Laukey&#34;&gt;Open Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-downloads&#34;&gt;📥 Downloads&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the &lt;a href=&#34;https://www.digicert.com/signing/compare-code-signing-certificates&#34;&gt;high cost of a certificate&lt;/a&gt;. Click &amp;ldquo;More info&amp;rdquo; &amp;gt; &amp;ldquo;Run anyway&amp;rdquo; to proceed safely.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
-    <img src="/laukey_applications/laukey_logo.png" alt="Laukey logo" width="256" height="256" />
+      <description>&lt;style&gt;&#xA;  details.premium-details {&#xA;    background-color: #222530;&#xA;    border: 1px solid #313545;&#xA;    border-radius: 10px;&#xA;    margin-bottom: 12px;&#xA;    overflow: hidden;&#xA;    transition: border-color 0.2s ease;&#xA;  }&#xA;  details.premium-details:hover {&#xA;    border-color: #4c526d;&#xA;  }&#xA;  details.premium-details[open] {&#xA;    border-color: #8cc2dd;&#xA;  }&#xA;  details.premium-details summary {&#xA;    padding: 14px 18px;&#xA;    font-weight: 600;&#xA;    color: #fff;&#xA;    cursor: pointer;&#xA;    user-select: none;&#xA;    outline: none;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: space-between;&#xA;  }&#xA;  details.premium-details summary::-webkit-details-marker {&#xA;    display: none;&#xA;  }&#xA;  details.premium-details summary::after {&#xA;    content: &#34;❯&#34;;&#xA;    font-size: 0.8rem;&#xA;    transition: transform 0.2s ease;&#xA;    color: #8cc2dd;&#xA;  }&#xA;  details.premium-details[open] summary::after {&#xA;    transform: rotate(90deg);&#xA;  }&#xA;  .details-content {&#xA;    padding: 0 18px 18px 18px;&#xA;    border-top: 1px solid #313545;&#xA;    margin-top: 0;&#xA;    font-size: 0.92rem;&#xA;    color: #c9d1d9;&#xA;  }&#xA;  .rounded-screenshot {&#xA;    border-radius: 8px;&#xA;    width: 100%;&#xA;    height: auto;&#xA;    display: block;&#xA;    margin-top: 1rem;&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;&#xA;&#xA;  /* Quick Installer list */&#xA;  .install-grid {&#xA;    display: grid;&#xA;    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));&#xA;    gap: 12px;&#xA;    margin-top: 15px;&#xA;  }&#xA;  .install-item {&#xA;    background-color: #1a1c24;&#xA;    border: 1px solid #2d313f;&#xA;    border-radius: 8px;&#xA;    padding: 12px;&#xA;    text-align: center;&#xA;    transition: all 0.2s ease;&#xA;  }&#xA;  .install-item:hover {&#xA;    border-color: #8cc2dd;&#xA;    background-color: #1e212b;&#xA;  }&#xA;  .install-name {&#xA;    font-size: 0.9rem;&#xA;    font-weight: 600;&#xA;    color: #eee;&#xA;    margin-bottom: 8px;&#xA;  }&#xA;  .install-link {&#xA;    display: inline-block;&#xA;    padding: 6px 12px;&#xA;    background-color: #2b3a4a;&#xA;    color: #8cc2dd !important;&#xA;    font-size: 0.8rem;&#xA;    font-weight: 600;&#xA;    text-decoration: none !important;&#xA;    border-radius: 4px;&#xA;    transition: background-color 0.2s ease;&#xA;  }&#xA;  .install-link:hover {&#xA;    background-color: #384d63;&#xA;  }&#xA;&#xA;  .install-desc {&#xA;    font-size: 0.78rem;&#xA;    color: #8f9cae;&#xA;    margin-top: 6px;&#xA;  }&#xA;&#xA;  .info-alert {&#xA;    background-color: rgba(235, 166, 19, 0.1);&#xA;    border-left: 4px solid #eba613;&#xA;    border-radius: 4px;&#xA;    padding: 12px 16px;&#xA;    margin: 15px 0;&#xA;    font-size: 0.88rem;&#xA;    color: #d1d5db;&#xA;    text-align: left;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div align=&#34;center&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/laukey_applications/laukey-logo.png&#34; alt=&#34;Laukey Logo&#34; width=&#34;250&#34;&gt;&#xA;  &lt;div style=&#34;position: relative; top: -50px; margin-bottom: -50px;&#34;&gt;&#xA;    &lt;h1&gt;Laukey&lt;/h1&gt;&#xA;    &lt;div&gt;&#xA;      &lt;img src=&#34;https://img.shields.io/badge/Version-0.2-blue?style=flat&#34;&gt;&#xA;      &lt;img src=&#34;https://img.shields.io/badge/License-GPL-green?style=flat&#34; alt=&#34;Badge&#34;&gt;&#xA;      &lt;a href=&#34;https://discord.gg/JwfsagYANM&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;https://img.shields.io/badge/Chat-Discord-0069c2?style=flat&amp;logo=discord&amp;logoColor=white&#34; alt=&#34;Badge&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Laukey is a &lt;strong&gt;local-first&lt;/strong&gt; password manager. All passwords are encrypted and stored locally. It supports &lt;strong&gt;importing passwords&lt;/strong&gt; from other services, such as web browsers, and exporting them is also available. Additionally, it offers &lt;strong&gt;dark mode support&lt;/strong&gt; for users who prefer that style.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
+  details.premium-details {
+    background-color: #222530;
+    border: 1px solid #313545;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    transition: border-color 0.2s ease;
+  }
+  details.premium-details:hover {
+    border-color: #4c526d;
+  }
+  details.premium-details[open] {
+    border-color: #8cc2dd;
+  }
+  details.premium-details summary {
+    padding: 14px 18px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  details.premium-details summary::-webkit-details-marker {
+    display: none;
+  }
+  details.premium-details summary::after {
+    content: "❯";
+    font-size: 0.8rem;
+    transition: transform 0.2s ease;
+    color: #8cc2dd;
+  }
+  details.premium-details[open] summary::after {
+    transform: rotate(90deg);
+  }
+  .details-content {
+    padding: 0 18px 18px 18px;
+    border-top: 1px solid #313545;
+    margin-top: 0;
+    font-size: 0.92rem;
+    color: #c9d1d9;
+  }
+  .rounded-screenshot {
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+
+  /* Quick Installer list */
+  .install-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+    margin-top: 15px;
+  }
+  .install-item {
+    background-color: #1a1c24;
+    border: 1px solid #2d313f;
+    border-radius: 8px;
+    padding: 12px;
+    text-align: center;
+    transition: all 0.2s ease;
+  }
+  .install-item:hover {
+    border-color: #8cc2dd;
+    background-color: #1e212b;
+  }
+  .install-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #eee;
+    margin-bottom: 8px;
+  }
+  .install-link {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: #2b3a4a;
+    color: #8cc2dd !important;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  .install-link:hover {
+    background-color: #384d63;
+  }
+
+  .install-desc {
+    font-size: 0.78rem;
+    color: #8f9cae;
+    margin-top: 6px;
+  }
+
+  .info-alert {
+    background-color: rgba(235, 166, 19, 0.1);
+    border-left: 4px solid #eba613;
+    border-radius: 4px;
+    padding: 12px 16px;
+    margin: 15px 0;
+    font-size: 0.88rem;
+    color: #d1d5db;
+    text-align: left;
+  }
+</style>
+<div align="center">
+  <img src="/laukey_applications/laukey-logo.png" alt="Laukey Logo" width="250">
+  <div style="position: relative; top: -50px; margin-bottom: -50px;">
+    <h1>Laukey</h1>
+    <div>
+      <img src="https://img.shields.io/badge/Version-0.2-blue?style=flat">
+      <img src="https://img.shields.io/badge/License-GPL-green?style=flat" alt="Badge">
+      <a href="https://discord.gg/JwfsagYANM" target="_blank">
+        <img src="https://img.shields.io/badge/Chat-Discord-0069c2?style=flat&logo=discord&logoColor=white" alt="Badge">
+      </a>
+    </div>
+  </div>
 </div>
-<blockquote>
-<p>Laukey is in Beta, So You May encounter some bugs.</p>
-</blockquote>
-<p>Ever Needed a Password manager to manage all your password in one place? Obviously You Have And Thats Why We are happy to present you Laukey - An Password Manager with lot of features With A Modern UI</p>
-<h2 id="screenshots">ScreenShots</h2>
-<img src="/laukey_applications/ss/1.png" alt="Screenshot 1" style="max-width:100%; margin-bottom:20px; border-radius:12px;" />
-<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
-    <a href="https://github.com/ERRORLY/Laukey" target="_blank">source-code</a>
-</div>
-<h2 id="-features">✨ Features</h2>
-<ul>
-<li>No Authentication or Login Required</li>
-<li>Clean And Modern UI</li>
-<li>Dark And Light Mode Supports</li>
-<li>Passwords Encrypted And Saved Locally</li>
-<li>Import And Export in CSV</li>
-<li>Add/Edit Options</li>
-<li>Different Categories</li>
-<li>Responsive For Any Layout</li>
-<li><a href="https://github.com/ERRORLY/Laukey">Open Source</a></li>
-</ul>
-<h2 id="-downloads">📥 Downloads</h2>
-<blockquote>
-<p>Note for Windows users: You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the <a href="https://www.digicert.com/signing/compare-code-signing-certificates">high cost of a certificate</a>. Click &ldquo;More info&rdquo; &gt; &ldquo;Run anyway&rdquo; to proceed safely.</p>
-</blockquote>
-<div style="display:flex; justify-content:center; gap:40px; margin-top:20px;">
-  <details open style="min-width:200px; text-align:center;">
-    <summary>🪟 Windows</summary>
-    <br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64-setup.exe">Installer (nsis) (Recommended)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64_en-US.msi">Installer (.msi)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/Laukey.exe">.exe</a>
-  </details>
-    <!-- Linux Dropdown -->
-  <details open style="min-width:200px; text-align:center;">
-    <summary>🐧 Linux</summary>
-    <br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb">.deb (Ubuntu)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm">.rpm (OpenSuse And Others)</a><br/>
-    <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage">.AppImage</a>
-  </details>
-</div>
-<br/>
-<details>
-  <summary>📦 Installer Info (Click to Expand)</summary>
-  <br/>
-  <strong>🪟 Windows:</strong><br/>
-  - <code>laukey_0.1.0_x64-setup.exe</code> – Standard installer with setup wizard (Recommended)<br/>
-  - <code>laukey_0.1.0_x64_en-US.msi</code> – MSI installer for IT admins or deployment tools<br/>
-  - <code>Laukey.exe</code> – Portable version, no installation needed<br/><br/>
-  <strong>🐧 Linux:</strong><br/>
-  - <code>laukey_0.1.0_amd64.deb</code> – For Debian/Ubuntu systems (install via <code>dpkg</code>)<br/>
-  - <code>laukey-0.1.0-1.x86_64.rpm</code> – For Fedora/RHEL/openSUSE systems (install via <code>rpm</code>)<br/>
-  - <code>laukey_0.1.0_amd64.AppImage</code> – Portable, runs on most distros without install<br/>
+<br>
+<p>Laukey is a <strong>local-first</strong> password manager. All passwords are encrypted and stored locally. It supports <strong>importing passwords</strong> from other services, such as web browsers, and exporting them is also available. Additionally, it offers <strong>dark mode support</strong> for users who prefer that style.</p>
+<h2 id="-screenshots">✨ Screenshots</h2>
+<img src="/laukey_applications/screenshot/1.png" alt="Laukey main dashboard" class="rounded-screenshot">
+<details class="premium-details">
+  <summary>View more screenshots</summary>
+  <div class="details-content">
+    <img src="/laukey_applications/screenshot/2.png" alt="Screenshot 2" class="rounded-screenshot">
+    <hr>
+    <img src="/laukey_applications/screenshot/3.png" alt="Screenshot 3" class="rounded-screenshot">
+  </div>
 </details>
-<br/>
-<h2 id="build-or-run-through-code">Build Or Run Through Code</h2>
-<p>To Build App From Source Code, You Should Visit The <a href="https://github.com/ERRORLY/Laukey?tab=readme-ov-file#build-or-run-through-code">Repo</a> Of Laukey</p>
-<h2 id="-docs">📚 Docs</h2>
-<p><strong>1</strong>. If your issue isn’t here, join our <a href="https://discord.gg/JwfsagYANM"><strong>Discord</strong></a> for quick support.</p>
-<p><strong>2</strong>. Import/Export works only with <code>.csv</code> files. The file must follow this format for importing:</p>
-
-
-
-
-
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-csv" data-lang="csv"><span class="line"><span class="ln">1</span><span class="cl"><span class="s">name</span><span class="p">,</span><span class="s">url</span><span class="p">,</span><span class="s">username</span><span class="p">,</span><span class="s">password</span><span class="p">,</span><span class="s">note</span><span class="p">
-</span></span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="s2">&#34;My Site&#34;</span><span class="p">,</span><span class="s2">&#34;https://example.com&#34;</span><span class="p">,</span><span class="s2">&#34;user123&#34;</span><span class="p">,</span><span class="s2">&#34;mypassword&#34;</span></span></span></code></pre></div><p>This is the standard file which you get after exporting your file from chrome browser</p>
-<p><strong>3</strong>. Dark And Light Mode Will Be Automatically Set As Per your System Theme, changing manually will come in future version.</p>
-<p><strong>4</strong>. If you want to know more on how the code works, check out our <a href="https://github.com/ERRORLY/Laukey/blob/main/documentation.md">documentation.md</a></p>
-<h2 id="-future-versions-todo-for-v02-to-v03">📝 Future Versions TODO (for v0.2 to v0.3)</h2>
-
-
-
-
-
-<pre tabindex="0"><code>- [ ] Let users add categories
-- [ ] Let users pick theme colors
-- [ ] fix notes to note issue
-- [ ] Add app lock with password
-- [ ] Add dark and light mode toggle</code></pre><h2 id="-supports">📫 Supports</h2>
-<p>To Report Bugs or Request Features Join Our <a href="https://discord.gg/JwfsagYANM">Discord</a> or <a href="mailto:errorlydev@gmail.com">Mail</a> us</p>
+<h2 id="-installation">✨ Installation</h2>
+<p>You can install Laukey on any major OS. Choose your operating system below:</p>
+<details class="premium-details">
+  <summary>🪟 For Windows</summary>
+  <div class="details-content">
+    <div class="info-alert">
+      <strong>Note for Windows users:</strong> You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the high cost of a certificate. Click <strong>"More info"</strong> and then <strong>"Run anyway"</strong> to proceed safely.
+    </div>
+    <div class="install-grid">
+      <div class="install-item">
+        <div class="install-name">Standard Installer</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64-setup.exe" class="install-link">Download .exe Setup</a>
+        <div class="install-desc">Recommended for most users. Standard setup wizard.</div>
+      </div>
+      <div class="install-item">
+        <div class="install-name">MSI Installer</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64_en-US.msi" class="install-link">Download .msi</a>
+        <div class="install-desc">Ideal for automated deployments or IT environments.</div>
+      </div>
+      <div class="install-item">
+        <div class="install-name">Portable Executable</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/Laukey.exe" class="install-link">Download Portable .exe</a>
+        <div class="install-desc">No installation required. Run directly from anywhere.</div>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="premium-details">
+  <summary>🐧 For Linux</summary>
+  <div class="details-content">
+    <p>Laukey is compiled for Debian/Ubuntu, RedHat/Fedora, and as a universal AppImage.</p>
+    <div class="install-grid">
+      <div class="install-item">
+        <div class="install-name">Debian / Ubuntu (.deb)</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb" class="install-link">Download .deb</a>
+        <div class="install-desc">Install using: <code>sudo dpkg -i laukey_0.1.0_amd64.deb</code></div>
+      </div>
+      <div class="install-item">
+        <div class="install-name">Fedora / RedHat (.rpm)</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm" class="install-link">Download .rpm</a>
+        <div class="install-desc">Install using: <code>sudo rpm -i laukey-0.1.0-1.x86_64.rpm</code></div>
+      </div>
+      <div class="install-item">
+        <div class="install-name">Universal AppImage</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage" class="install-link">Download AppImage</a>
+        <div class="install-desc">Make executable and run. Works on most distributions.</div>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="premium-details">
+  <summary>🛠️ Build from Source</summary>
+  <div class="details-content">
+    <p>To compile or customize the application on your own machine, execute these commands:</p>
+    <pre><code>git clone https://github.com/ERRORLY/Laukey.git
+cd Laukey
+npm install
+npm run tauri build</pre></code>
+    <p>After that go to <code>src-tauri/target/bundle/release</code> and you will find your Executables of Laukey</p>
+    <p>For more detailed build information, visit the <a href="https://github.com/ERRORLY/Laukey#build-or-run-through-code" target="_blank" rel="noopener noreferrer">Laukey GitHub Repository</a>.</p>
+  </div>
+</details>
+<h2 id="-faqsusage">✨ FAQs/Usage</h2>
+<p>Here are the most common question you might get while using bintoo, but if you have more problem that you wanna get answer for, join the <a href="https://discord.gg/JwfsagYANM">discord server</a> for further support.</p>
+<details class="premium-details">
+  <summary>What's the format of the CSV for importing passwords?</summary>
+  <div class="details-content">
+    <p>The CSV should look like this:</p>
+    <pre><code>name,url,username,password,note
+"My Site","https://example.com","user123","mypassword",""</code></pre>
+    <p>This is the default format exported by most modern browsers and many password managers.</p>
+  </div>
+</details>
+<details class="premium-details">
+  <summary>What if I forget my Master Password?</summary>
+  <div class="details-content">
+    <p>If you forget your master password, your encrypted passwords <strong>cannot be recovered</strong>. You will still be able to <strong>view unencrypted information</strong> such as website names, usernames, URLs, and notes, but the stored passwords cannot be decrypted without the correct master password.</p>
+  </div>
+</details>
+<h2 id="-contribution">✨ Contribution</h2>
+<p>Contributions, bug reports, and feature requests are welcome. Feel free to open an issue or submit a pull request.</p>
 ]]></content:encoded>
     </item>
     <item>

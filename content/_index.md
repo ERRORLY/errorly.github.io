@@ -36,9 +36,9 @@ Errorly is a small but growing team focused on building modern, useful tools tha
 
 We're just getting started, but here are a few projects already available:
 
-- [SumCode](/sumcode) - A smart tool that helps you generate code quickly and efficiently
-- [Laukey](/Laukey) - A powerful and beautifully designed password manager packed with features
 - [Bintoo](https://bintoo.xyz/) - A local minecraft server manager and maker
+- [Laukey](/Laukey) - A powerful and beautifully designed password manager packed with features
+- [SumCode](/sumcode) - A smart tool that helps you generate code quickly and efficiently
 
 More projects are in development and will be released soon.
 
