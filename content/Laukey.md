@@ -123,10 +123,13 @@ author: "CYCNO"
   <div style="position: relative; top: -50px; margin-bottom: -50px;">
     <h1>Laukey</h1>
     <div>
-      <img src="https://img.shields.io/badge/Version-0.2-blue?style=flat">
-      <img src="https://img.shields.io/badge/License-GPL-green?style=flat" alt="Badge">
+      <img src="https://img.shields.io/badge/Version-0.2-green?style=flat">
+      <img src="https://img.shields.io/badge/License-GPL-red?style=flat" alt="Badge">
+      <a href="https://github.com/ERRORLY/Laukey" target="_blank">
+          <img src="https://img.shields.io/badge/Open-Source-white?style=flat&logo=github&logoColor=white" alt="Badge">
+      </a>
       <a href="https://discord.gg/JwfsagYANM" target="_blank">
-        <img src="https://img.shields.io/badge/Chat-Discord-0069c2?style=flat&logo=discord&logoColor=white" alt="Badge">
+        <img src="https://img.shields.io/badge/Chat-Discord-blue?style=flat&logo=discord&logoColor=dark-blue" alt="Badge">
       </a>
     </div>
   </div>
@@ -225,4 +228,4 @@ example.com,https://example.com,user123,mypassword,some note (can be empty)</cod
 </details>
 
 ## ✨ Contribution
-Contributions, bug reports, and feature requests are welcome. Feel free to open an issue or submit a pull request.
+Contributions, bug reports, and feature requests are welcome. Feel free to open an [issue](https://github.com/ERRORLY/Laukey/issues) or submit a [pull request](https://github.com/ERRORLY/Laukey/pulls).
