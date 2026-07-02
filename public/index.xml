@@ -301,7 +301,6 @@ cd Laukey
 npm install
 npm run tauri build</pre></code>
     <p>After that go to <code>src-tauri/target/bundle/release</code> and you will find your Executables of Laukey</p>
-    <p>For more detailed build information, visit the <a href="https://github.com/ERRORLY/Laukey#build-or-run-through-code" target="_blank" rel="noopener noreferrer">Laukey GitHub Repository</a>.</p>
   </div>
 </details>
 <h2 id="-faqsusage">✨ FAQs/Usage</h2>

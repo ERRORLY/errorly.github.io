@@ -150,68 +150,57 @@ Laukey is a **local-first** password manager. All passwords are encrypted and st
 
 ## ✨ Installation
 
-You can install Laukey on any major OS. Choose your operating system below:
+Laukey is available for **Windows**, **Linux**, and can also be built **from source**. If your operating system isn't listed below, you can compile it yourself by following the **From Source** instructions.
+
+For additional installation methods (such as **`.deb`**, **`.rpm`**, and other packages), visit the [Releases](https://github.com/ERRORLY/Laukey/releases/tag/v0.2) page.
 
 <details class="premium-details">
-  <summary>🪟 For Windows</summary>
+  <summary>🪟 Windows</summary>
   <div class="details-content">
     <div class="info-alert">
       <strong>Note for Windows users:</strong> You may receive a security warning when downloading. This is expected, as the software isn’t code-signed due to the high cost of a certificate. Click <strong>"More info"</strong> and then <strong>"Run anyway"</strong> to proceed safely.
     </div>
-    <div class="install-grid">
+    <p>Download the latest Windows installer:</p>
+    <div class="install-grid" style="max-width: 300px; margin: 15px auto;">
       <div class="install-item">
-        <div class="install-name">Standard Installer</div>
-        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64-setup.exe" class="install-link">Download .exe Setup</a>
-        <div class="install-desc">Recommended for most users. Standard setup wizard.</div>
-      </div>
-      <div class="install-item">
-        <div class="install-name">MSI Installer</div>
-        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_x64_en-US.msi" class="install-link">Download .msi</a>
-        <div class="install-desc">Ideal for automated deployments or IT environments.</div>
-      </div>
-      <div class="install-item">
-        <div class="install-name">Portable Executable</div>
-        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/Laukey.exe" class="install-link">Download Portable .exe</a>
-        <div class="install-desc">No installation required. Run directly from anywhere.</div>
+        <div class="install-name">Laukey Setup (.msi)</div>
+        <a href="https://github.com/ERRORLY/Laukey/releases/download/v0.2/Laukey_0.2.0_x64_en-US.msi" class="install-link">Download Installer</a>
       </div>
     </div>
+    <p style="margin-top: 15px;">Need a different package? Check the <a href="https://github.com/ERRORLY/Laukey/releases/tag/v0.2">Releases</a> page for all available installation options.</p>
   </div>
 </details>
 
 <details class="premium-details">
-  <summary>🐧 For Linux</summary>
+  <summary>🐧 Linux</summary>
   <div class="details-content">
-    <p>Laukey is compiled for Debian/Ubuntu, RedHat/Fedora, and as a universal AppImage.</p>
-    <div class="install-grid">
-      <div class="install-item">
-        <div class="install-name">Debian / Ubuntu (.deb)</div>
-        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.deb" class="install-link">Download .deb</a>
-        <div class="install-desc">Install using: <code>sudo dpkg -i laukey_0.1.0_amd64.deb</code></div>
-      </div>
-      <div class="install-item">
-        <div class="install-name">Fedora / RedHat (.rpm)</div>
-        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey-0.1.0-1.x86_64.rpm" class="install-link">Download .rpm</a>
-        <div class="install-desc">Install using: <code>sudo rpm -i laukey-0.1.0-1.x86_64.rpm</code></div>
-      </div>
-      <div class="install-item">
-        <div class="install-name">Universal AppImage</div>
-        <a href="https://github.com/ERRORLY/Laukey/releases/download/Beta/laukey_0.1.0_amd64.AppImage" class="install-link">Download AppImage</a>
-        <div class="install-desc">Make executable and run. Works on most distributions.</div>
-      </div>
+    <p>For most users, the easiest way to install Laukey is by running the following command in your terminal. It will automatically download and set up the <strong>AppImage</strong> version.</p>
+    <div style="display: flex; align-items: center; gap: 8px; margin: 10px 0;">
+      <pre style="margin: 0; flex-grow: 1; overflow-x: auto;"><code id="linux-install-cmd">curl -fsSL https://raw.githubusercontent.com/ERRORLY/Laukey/refs/heads/main/scripts/linux-install.sh | bash</code></pre>
+      <button onclick="navigator.clipboard.writeText(document.getElementById('linux-install-cmd').textContent.trim()); const btn=this; btn.querySelector('.copy-icon').style.display='none'; btn.querySelector('.check-icon').style.display='block'; btn.style.backgroundColor='#1a1c24'; setTimeout(() => { btn.querySelector('.copy-icon').style.display='block'; btn.querySelector('.check-icon').style.display='none'; btn.style.backgroundColor='#2b3a4a'; }, 2000)" style="background-color: #2b3a4a; border: 1px solid #313545; color: #8cc2dd; border-radius: 4px; padding: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center; outline: none; transition: all 0.2s; min-width: 36px; min-height: 36px;" title="Copy to clipboard">
+        <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+          <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+        </svg>
+        <svg class="check-icon" style="display: none;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="20 6 9 17 4 12"></polyline>
+        </svg>
+      </button>
     </div>
+    <p>If you prefer a different installation method (such as <strong>.deb</strong> or <strong>.rpm</strong> packages), you'll find them on the <a href="https://github.com/ERRORLY/Laukey/releases/tag/v0.2">Releases</a> page.</p>
   </div>
 </details>
 
 <details class="premium-details">
   <summary>🛠️ Build from Source</summary>
   <div class="details-content">
-    <p>To compile or customize the application on your own machine, execute these commands:</p>
+    <p>If you'd like to compile Laukey yourself or customize the source code, run the following commands:</p>
     <pre><code>git clone https://github.com/ERRORLY/Laukey.git
 cd Laukey
 npm install
-npm run tauri build</pre></code>
-    <p>After that go to <code>src-tauri/target/bundle/release</code> and you will find your Executables of Laukey</p>
-    <p>For more detailed build information, visit the <a href="https://github.com/ERRORLY/Laukey#build-or-run-through-code" target="_blank" rel="noopener noreferrer">Laukey GitHub Repository</a>.</p>
+npm run tauri build</code></pre>
+    <p>Once the build is complete, you'll find the generated executables in:</p>
+    <pre><code>src-tauri/target/bundle/release</code></pre>
   </div>
 </details>
 
@@ -223,7 +212,7 @@ Here are the most common question you might get while using bintoo, but if you h
   <div class="details-content">
     <p>The CSV should look like this:</p>
     <pre><code>name,url,username,password,note
-"My Site","https://example.com","user123","mypassword",""</code></pre>
+example.com,https://example.com,user123,mypassword,some note (can be empty)</code></pre>
     <p>This is the default format exported by most modern browsers and many password managers.</p>
   </div>
 </details>
